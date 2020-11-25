@@ -1,0 +1,6 @@
+[submodule "microByte_PCB"]
+	path = microByte_PCB
+	url = https://github.com/jfm92/microByte_PCB
+[submodule "microByte_firmware"]
+	path = microByte_firmware
+	url = https://github.com/jfm92/microByte_firmware
