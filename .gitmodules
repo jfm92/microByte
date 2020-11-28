@@ -4,3 +4,6 @@
 [submodule "microByte_firmware"]
 	path = microByte_firmware
 	url = https://github.com/jfm92/microByte_firmware
+[submodule "microByte_case"]
+	path = microByte_case
+	url = https://github.com/jfm92/microByte_case
