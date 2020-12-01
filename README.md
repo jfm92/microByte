@@ -10,7 +10,7 @@ In this repo you can find the submodules to all the part of the project (PCB, ca
 - [Case](https://github.com/jfm92/microByte_case)
 - [Firmware](https://github.com/jfm92/microByte_firmware)
 
-[![](https://img.youtube.com/vi)](https://www.youtube.com/embed/g1zqmEbpWG0)
+[![](http://img.youtube.com/vi/g1zqmEbpWG0/0.jpg)](http://www.youtube.com/watch?v=g1zqmEbpWG0 "microByte intro video")
 
 # Features
 
