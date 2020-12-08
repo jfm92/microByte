@@ -9,6 +9,7 @@ In this repo you can find the submodules to all the part of the project (PCB, ca
 - [PCB](https://github.com/jfm92/microByte_PCB)
 - [Case](https://github.com/jfm92/microByte_case)
 - [Firmware](https://github.com/jfm92/microByte_firmware)
+- [External Apps](https://github.com/jfm92/microByte_external_apps)
 
 ## Youtube Video
 [![](http://img.youtube.com/vi/g1zqmEbpWG0/0.jpg)](http://www.youtube.com/watch?v=g1zqmEbpWG0 "microByte intro video")
@@ -71,7 +72,7 @@ In the next image you can see an example of how it could look in different combi
     - Good question, because it only emulate 8Bit right now, but in future updates, probably it will be added some new 16Bit emulators which needs this gamepad layout and on the other hand if you want to create an application you have enough buttons.
 
 - Where I can buy?
-    - At this moment is not available to sell, because is still a prototype and I need to improve a few things, but very soon you will be available.
+    - At this moment is not available to sell, because is still a prototype and I need to improve a few things, but very soon it will be available.
 
 - Will include the case? Will be 3D printed?
     - Yes, a case will be included. And no, the case won't be 3D printed, it will be done with Epoxy Resin.
