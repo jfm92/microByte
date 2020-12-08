@@ -7,3 +7,6 @@
 [submodule "microByte_case"]
 	path = microByte_case
 	url = https://github.com/jfm92/microByte_case
+[submodule "microByte_external_apps"]
+	path = microByte_external_apps
+	url = https://github.com/jfm92/microByte_external_apps
