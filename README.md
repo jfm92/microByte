@@ -81,7 +81,7 @@ In the next image you can see an example of how it could look in different combi
     - You can find a document full of detail on the firmware repo.
 
 - All the game works for each emulator?
-    - Unfortunately, the short answer is no. Most of the games works properly but some has glitches or even doesn't start. But I'm working on give support for most of the games.
+    - Unfortunately, the short answer is no. Most of the games works properly but has some glitches or even doesn't start. But I'm working on give support for most of the games.
 
 - How can I create a custom application?
     - The process will be explained on the use guide.
