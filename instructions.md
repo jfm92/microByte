@@ -192,7 +192,13 @@ Once the installation is ready, the device will reboot and appear on the main me
 
 ## microPython
 
-### WIP
+You can find tutorials the next tutorials on the next repository:
+- Build and flash the binary.
+- Basic microPython ussage.
+- Create games with Stage library.
+- Known issues.
+
+[microPython for microByte port](https://github.com/jfm92/mb_micropython)
 
 ## Software development
 
