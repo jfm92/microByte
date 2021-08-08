@@ -133,7 +133,7 @@ Insert your microSD card into your PC. Once you open it you will see the next fo
     - Save_Data
 - GameBoy
     - Save_Data
-- GameBoy Color
+- GameBoy_Color
     - Save_Data
 - Master_System
     - Save_Data
